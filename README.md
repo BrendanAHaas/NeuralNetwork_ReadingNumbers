@@ -1,2 +1,6 @@
 # NeuralNetwork_ReadingNumbers
-Neural Network in Octave using Andrew Ng's fmincg optimization function to identify handwritten numbers (0-9).  99% accuracy after 500 iterations.
+This is a neural network designed to solve the classic problem of identifying hand-written numbers (0-9).
+
+This neural network was written in Octave and utilizes Andrew Ng's fmincg optization function.
+
+99% accuracy was achieved after 500 iterations.
